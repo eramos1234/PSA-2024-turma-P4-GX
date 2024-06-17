@@ -1,0 +1,11 @@
+- Links de páginas auxiliares, em MIT APP Inventor
+
+https://www.androidpro.com.br/blog/desenvolvimento-android/app-inventor/
+
+https://ai2.appinventor.mit.edu/reference/components/index.html
+
+https://ai2.appinventor.mit.edu/reference/components/layout.html
+
+https://ai2.appinventor.mit.edu/reference/components/experimental.html
+
+
