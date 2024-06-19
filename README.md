@@ -41,7 +41,7 @@
 
   <p align="center">
   
-    This repository was created for evaluation @ Advanced Systems of Industrial Vision "SAVI 23-24 Trabalho prático 2".
+    This repository was created for evaluation @ Project of Automation Systems.
     <br />
     <!-- <a href="https://github.com/mestrinio/SAVI_Trabalho2"><strong>Explore the Wiki »</strong></a> -->
     <br >
