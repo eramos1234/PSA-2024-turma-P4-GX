@@ -29,10 +29,6 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  <a href="https://github.com/eramos1234/PSA-2024-turma-P4-GX">
-    <img src="images/LogoUA.jpg" alt="Logo" height="150">
-  </a>
-
 <h3 align="center">PSA - Projeto em Sistemas de Automação</h3>
 <h3 align="center">Rastreabilidade da linha de produção de eBikes (empresa MHS) </h3>
 
@@ -47,9 +43,6 @@
 </div>
 <br>
 
-<div align="center">
-<img  src="images/mariabike.png" alt="mariabike" height="500">
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -57,9 +50,6 @@
   <ol>
     <li>
       <a href="#about-the-assignment">Sobre o projeto</a>
-    </li>
-     <li>
-      <a href="#Informações">Informações</a>
     </li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -71,9 +61,7 @@
 
 <!-- ABOUT THE ASSIGNMENT -->
 ## Sobre o projeto
-<div align="center">
-<img  src="images/example1.png" alt="THOR" height="500">
-</div>
+
 <br>
 Este trabalho/projeto foi desenvolvido no âmbito da unidade curricular "Projeto em Sistemas de Automação", como parte do Mestrado em Engenharia Mecânica na Universidade de Aveiro. O projeto refere o sistema global constituído por sub-sistemas que foram construídos pelos alunos do grupo, em separado. As temáticas do universo da automação abordadas foram nomeadamente ESP32, ESP-CAM, RFID, QRCODE, Node-RED, Bases de dados, Winproladder e MIT App Inventor.
 
@@ -93,12 +81,6 @@ Este trabalho/projeto foi desenvolvido no âmbito da unidade curricular "Projeto
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-
-
-<!-- Informações -->
-## Informações
-### Training of a classifier in deep learning
 
 
 
