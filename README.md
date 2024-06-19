@@ -42,10 +42,7 @@
   <p align="center">
   
     This repository was created for evaluation @ Project of Automation Systems.
-    <br />
-    <!-- <a href="https://github.com/mestrinio/SAVI_Trabalho2"><strong>Explore the Wiki »</strong></a> -->
-    <br >
-    <a href="https://github.com/mestrinio/SAVI_Trabalho2/issues"> <u>Make Suggestion</u> </a>
+
   </p>
 </div>
 <br>
